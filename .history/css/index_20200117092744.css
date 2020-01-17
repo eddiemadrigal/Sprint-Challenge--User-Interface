@@ -192,10 +192,6 @@ ul li a:hover {
     padding-right: 0;
 }
 
-.section-about {
-    display: flex;
-}
-
 footer {
     width: 100%;
     background: black;
