@@ -125,10 +125,6 @@ ul li a:hover {
     justify-content: space-evenly;
 }
 
-.contact-us-top {
-    padding: 10px 0;
-}
-
 .box {
     width: 12.5%;
     height: 100px;
@@ -192,8 +188,6 @@ ul li a:hover {
 
 button {
     margin-bottom: 15px;
-    padding: 5px 25px;
-    border-radius: 5px;
 }
 
 .bottom-content .text-container:last-child {
@@ -225,11 +219,6 @@ article p {
 footer {
     width: 100%;
     background: black;
-}
-
-body > div > main > section > form {
-    margin: 25px auto;
-    text-align: center;
 }
 
 footer nav {

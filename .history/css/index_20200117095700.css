@@ -109,6 +109,10 @@ ul li a:hover {
     margin: 25px;
 }
 
+main {
+    width: 100%;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -123,10 +127,6 @@ ul li a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-}
-
-.contact-us-top {
-    padding: 10px 0;
 }
 
 .box {
@@ -190,12 +190,6 @@ ul li a:hover {
     padding-right: 4%;
 }
 
-button {
-    margin-bottom: 15px;
-    padding: 5px 25px;
-    border-radius: 5px;
-}
-
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
@@ -205,17 +199,13 @@ button {
 }
 
 .section-about article {
-    margin: 10px;
+    padding: 20px;
     border-bottom: 1px dashed black;
+    margin: 10px;
 }
 
 .bottom-article {
-    padding: 0 30px;
-    margin-top: 20px;
-}
-
-article img {
-    max-width: 100%;
+    padding: 30px;
 }
 
 article p {
@@ -225,11 +215,6 @@ article p {
 footer {
     width: 100%;
     background: black;
-}
-
-body > div > main > section > form {
-    margin: 25px auto;
-    text-align: center;
 }
 
 footer nav {

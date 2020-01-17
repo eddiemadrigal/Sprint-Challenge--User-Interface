@@ -228,8 +228,7 @@ footer {
 }
 
 body > div > main > section > form {
-    margin: 25px auto;
-    text-align: center;
+    margin: 25px;
 }
 
 footer nav {

@@ -76,7 +76,6 @@ nav ul {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding-top: 30px;
 }
 
 ul li a {
@@ -104,11 +103,6 @@ ul li a:hover {
     margin-top: 25px;
 }
 
-.top-content article {
-    padding: 0 1%;
-    margin: 25px;
-}
-
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -123,10 +117,6 @@ ul li a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-}
-
-.contact-us-top {
-    padding: 10px 0;
 }
 
 .box {
@@ -190,36 +180,8 @@ ul li a:hover {
     padding-right: 4%;
 }
 
-button {
-    margin-bottom: 15px;
-    padding: 5px 25px;
-    border-radius: 5px;
-}
-
 .bottom-content .text-container:last-child {
     padding-right: 0;
-}
-
-.section-about {
-    display: flex;
-}
-
-.section-about article {
-    margin: 10px;
-    border-bottom: 1px dashed black;
-}
-
-.bottom-article {
-    padding: 0 30px;
-    margin-top: 20px;
-}
-
-article img {
-    max-width: 100%;
-}
-
-article p {
-    margin-bottom: 20px;
 }
 
 footer {
@@ -227,15 +189,10 @@ footer {
     background: black;
 }
 
-body > div > main > section > form {
-    margin: 25px auto;
-    text-align: center;
-}
-
-footer nav {
+footer nav ul li a {
     display: flex;
-    justify-content: space-between;
-    padding: 20px 2%;
+    justify-content: space-around;
+    padding: 20px 0;
     font-size: 14px;
 }
 
