@@ -71,7 +71,6 @@ p {
     margin: 0 auto;
 }
 
-
 nav ul {
     display: flex;
     justify-content: space-between;
@@ -92,7 +91,7 @@ ul li a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 30px 0 20px;
+    margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
 
@@ -100,7 +99,6 @@ ul li a:hover {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
-    margin-top: 25px;
 }
 
 .middle-content {
