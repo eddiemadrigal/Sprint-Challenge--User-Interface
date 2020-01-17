@@ -109,6 +109,10 @@ ul li a:hover {
     margin: 25px;
 }
 
+main {
+    margin-bottom: 20px;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -188,8 +192,6 @@ ul li a:hover {
 
 button {
     margin-bottom: 15px;
-    padding: 5px 25px;
-    border-radius: 5px;
 }
 
 .bottom-content .text-container:last-child {
@@ -207,7 +209,6 @@ button {
 
 .bottom-article {
     padding: 0 30px;
-    margin-top: 20px;
 }
 
 article img {
