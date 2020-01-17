@@ -109,6 +109,10 @@ ul li a:hover {
     margin: 25px;
 }
 
+main {
+    width: 100%;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -202,10 +206,6 @@ ul li a:hover {
 
 .bottom-article {
     padding: 30px;
-}
-
-article img {
-    max-width: 100%;
 }
 
 article p {
