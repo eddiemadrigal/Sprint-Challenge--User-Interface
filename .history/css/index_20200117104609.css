@@ -125,10 +125,6 @@ ul li a:hover {
     justify-content: space-evenly;
 }
 
-.contact-us-top {
-    padding: 10px 0;
-}
-
 .box {
     width: 12.5%;
     height: 100px;
@@ -227,8 +223,8 @@ footer {
     background: black;
 }
 
-body > div > main > section > form {
-    margin: 25px;
+main main-content {
+    margin-bottom: 15px;
 }
 
 footer nav {
