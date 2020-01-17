@@ -76,7 +76,6 @@ nav ul {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding-top: 30px;
 }
 
 ul li a {
@@ -190,11 +189,9 @@ footer {
     background: black;
 }
 
-footer nav {
-    width: 60%;
+footer nav ul li a {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-around;
     padding: 20px 2%;
     font-size: 14px;
 }
